@@ -1,7 +1,7 @@
 import streamlit as st 
 
-st.set_page_config(page_title="Atendimento Escola", page_icon="🎓")
-st.title("Atendimento Virtual - Escola")
+st.set_page_config(page_title="Atendimento Consultório de advocacia", page_icon="🎓")
+st.title("Atendimento Virtual - Consultório de advocacia")
 
 # Histórico do chat
 if "messages" not in st.session_state:
